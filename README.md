@@ -17,6 +17,7 @@ Mouse movement event is used to update the position of the "eye" element display
 
 Screenshot:
 --------------------
+![eye-movement](https://user-images.githubusercontent.com/15187270/112936918-8b0c2a80-90db-11eb-9781-64093b9a93b0.JPG)
 
 
 <h2>Credits</h2>
